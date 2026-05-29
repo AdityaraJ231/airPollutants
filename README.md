@@ -1,4 +1,5 @@
 Air Pollution Analysis & Prediction using Python
+
 📌 Project Overview
 
 This project focuses on Air Quality Index (AQI) Analysis and Prediction using Python.
@@ -16,6 +17,7 @@ AQI Categorization
 Machine Learning Prediction using Linear Regression
 
 The goal of this project is to understand pollution trends and predict PM2.5 levels using other pollutant values.
+
 
 📂 Dataset
 Source: Government Open Data Platform India
@@ -108,6 +110,7 @@ Pollution Comparison Across States
 Top Polluted Cities
 Box Plot Before & After Outlier Removal
 Actual vs Predicted PM2.5 Graph
+
 🚀 How to Run the Project
 Clone the repository
 git clone https://github.com/your-username/your-repository-name.git
@@ -117,6 +120,7 @@ Install required libraries
 pip install numpy pandas matplotlib seaborn scikit-learn
 Run the Python file
 python pythonproject.py
+
 📌 Project Output
 
 The project:
@@ -126,12 +130,14 @@ Identifies highly polluted areas
 Detects pollution trends
 Predicts PM2.5 levels using machine learning
 Visualizes pollution patterns effectively
+
 🔮 Future Improvements
 Use advanced ML algorithms like Random Forest or XGBoost
 Add real-time AQI API integration
 Build an interactive dashboard using Power BI or Streamlit
 Deploy the model as a web application
 Add time-series forecasting
+
 📚 Learning Outcomes
 
 Through this project, I learned:
@@ -143,6 +149,7 @@ Feature Engineering
 Outlier Handling
 Machine Learning Model Building
 Model Evaluation
+
 👨‍💻 Author
 
 Aditya
